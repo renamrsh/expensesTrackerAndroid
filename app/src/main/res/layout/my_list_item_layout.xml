@@ -1,9 +1,0 @@
-<TextView xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/customTextView"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:padding="16dp"
-    android:textSize="20sp"
-    android:textColor="#3F51B5"
-    android:textStyle="bold"
-    android:background="?android:attr/selectableItemBackground" />
